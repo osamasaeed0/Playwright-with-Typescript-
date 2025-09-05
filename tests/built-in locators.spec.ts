@@ -12,8 +12,8 @@ test('Examples of locators in Playwright', async ({ page }) => {
   await expect(loginText).toBeVisible();
 
 // getByLabel
-  // const usernameLabel = page.getByLabel('Username').fill('tomsmith');
-  // const passwordLabel = page.getByLabel('Password').fill('SuperSecretPassword');
+  const usernameLabel = page.getByLabel('Username').fill('tomsmith');
+  const passwordLabel = page.getByLabel('Password').fill('SuperSecretPassword');
   // Get by CSS selector
   // by id
     const username = page.locator('#username');
