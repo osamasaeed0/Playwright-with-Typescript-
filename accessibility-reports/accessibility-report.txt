@@ -1,0 +1,212 @@
+Accessibility violations found:
+ Violation : color-contrast
+ Description : Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds
+ Impact : serious
+  Affected element: <a href="/abtest">A/B Testing</a>
+  Affected element: a[href$="abtest"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/add_remove_elements/">Add/Remove Elements</a>
+  Affected element: a[href$="add_remove_elements/"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/basic_auth">Basic Auth</a>
+  Affected element: a[href$="basic_auth"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/broken_images">Broken Images</a>
+  Affected element: a[href$="broken_images"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/challenging_dom">Challenging DOM</a>
+  Affected element: a[href$="challenging_dom"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/checkboxes">Checkboxes</a>
+  Affected element: a[href$="checkboxes"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/context_menu">Context Menu</a>
+  Affected element: a[href$="context_menu"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/digest_auth">Digest Authentication</a>
+  Affected element: a[href$="digest_auth"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/disappearing_elements">Disappearing Elements</a>
+  Affected element: a[href$="disappearing_elements"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/drag_and_drop">Drag and Drop</a>
+  Affected element: a[href$="drag_and_drop"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/dropdown">Dropdown</a>
+  Affected element: a[href$="dropdown"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/dynamic_content">Dynamic Content</a>
+  Affected element: a[href$="dynamic_content"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/dynamic_controls">Dynamic Controls</a>
+  Affected element: a[href$="dynamic_controls"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/dynamic_loading">Dynamic Loading</a>
+  Affected element: a[href$="dynamic_loading"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/entry_ad">Entry Ad</a>
+  Affected element: a[href$="entry_ad"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/exit_intent">Exit Intent</a>
+  Affected element: a[href$="exit_intent"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/download">File Download</a>
+  Affected element: a[href$="download"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/upload">File Upload</a>
+  Affected element: a[href$="upload"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/floating_menu">Floating Menu</a>
+  Affected element: a[href$="floating_menu"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/forgot_password">Forgot Password</a>
+  Affected element: a[href$="forgot_password"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/login">Form Authentication</a>
+  Affected element: a[href$="login"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/frames">Frames</a>
+  Affected element: li:nth-child(22) > a[href$="frames"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/geolocation">Geolocation</a>
+  Affected element: a[href$="geolocation"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/horizontal_slider">Horizontal Slider</a>
+  Affected element: a[href$="horizontal_slider"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/hovers">Hovers</a>
+  Affected element: a[href$="hovers"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/infinite_scroll">Infinite Scroll</a>
+  Affected element: a[href$="infinite_scroll"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/inputs">Inputs</a>
+  Affected element: a[href$="inputs"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/jqueryui/menu">JQuery UI Menus</a>
+  Affected element: li:nth-child(28) > a[href$="menu"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/javascript_alerts">JavaScript Alerts</a>
+  Affected element: a[href$="javascript_alerts"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/javascript_error">JavaScript onload event error</a>
+  Affected element: a[href$="javascript_error"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/key_presses">Key Presses</a>
+  Affected element: a[href$="key_presses"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/large">Large &amp; Deep DOM</a>
+  Affected element: a[href$="large"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/windows">Multiple Windows</a>
+  Affected element: a[href$="windows"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/nested_frames">Nested Frames</a>
+  Affected element: a[href$="nested_frames"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/notification_message">Notification Messages</a>
+  Affected element: a[href$="notification_message"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/redirector">Redirect Link</a>
+  Affected element: a[href$="redirector"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/download_secure">Secure File Download</a>
+  Affected element: a[href$="download_secure"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/shadowdom">Shadow DOM</a>
+  Affected element: a[href$="shadowdom"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/shifting_content">Shifting Content</a>
+  Affected element: a[href$="shifting_content"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/slow">Slow Resources</a>
+  Affected element: a[href$="slow"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/tables">Sortable Data Tables</a>
+  Affected element: a[href$="tables"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/status_codes">Status Codes</a>
+  Affected element: a[href$="status_codes"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/typos">Typos</a>
+  Affected element: a[href$="typos"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a href="/tinymce">WYSIWYG Editor</a>
+  Affected element: a[href$="tinymce"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+  Affected element: <a target="_blank" href="http://elementalselenium.com/">Elemental Selenium</a>
+  Affected element: a[target="_blank"]
+  Failure summary: Fix any of the following:
+  Element has insufficient color contrast of 2.83 (foreground color: #2ba6cb, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1
+ Violation : region
+ Description : Ensure all page content is contained by landmarks
+ Impact : moderate
+  Affected element: <a href="https://github.com/tourdedave/the-internet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
+  Affected element: .row:nth-child(2) > a
+  Failure summary: Fix any of the following:
+  Some page content is not contained by landmarks
+  Affected element: <h1 class="heading">Welcome to the-internet</h1>
+  Affected element: h1
+  Failure summary: Fix any of the following:
+  Some page content is not contained by landmarks
+  Affected element: <h2>Available Examples</h2>
+  Affected element: h2
+  Failure summary: Fix any of the following:
+  Some page content is not contained by landmarks
+  Affected element: <ul>
+  Affected element: ul
+  Failure summary: Fix any of the following:
+  Some page content is not contained by landmarks
+  Affected element: <div id="page-footer" class="row">
+      <div class="large-4 large-centered columns">
+        <hr>
+        <div style="text-align: center;">Powered by <a target="_blank" href="http://elementalselenium.com/">Elemental Selenium</a></div>
+      </div>
+    </div>
+  Affected element: #page-footer
+  Failure summary: Fix any of the following:
+  Some page content is not contained by landmarks
