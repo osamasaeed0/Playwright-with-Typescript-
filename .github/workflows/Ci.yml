@@ -2,19 +2,13 @@ name: Playwright Tests
 
 on:
   push:
-    branches: [ main ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ main ]
+    branches: [ "main" ]
 
 jobs:
   test:
     runs-on: ubuntu-latest
-
-    # 👇 yahan environment variables (from GitHub Secrets)
-    # env:
-    #   BASE_URL: {{ secrets.BASE_URL }}
-    #   USERNAME: {{ secrets.USER_NAME }}
-    #   PASSWORD: {{ secrets.PASSWORD_NAME }}
 
     steps:
       - name: Checkout code
